@@ -34,5 +34,12 @@ Tableau • Power BI • Figma
 ---
 
 ## Let's Connect
-- LinkedIn: *linkedin.com/in/mokshfadia*
-- Email: *mokshfadia@gmail.com*
+<p>
+  <a href="https://linkedin.com/in/mokshfadia" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
+  
+  <a href="mailto:mokshfadia@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="60"/>
+  </a>
+</p>
