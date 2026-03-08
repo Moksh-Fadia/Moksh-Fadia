@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Moksh 👋</h1>
+<h1 align="center">Hi, I am Moksh</h1>
 
 I'm a Computer Engineering undergraduate interested in building practical projects across data analysis, data science, and software development, with a focus on solving real-world problems.
 
