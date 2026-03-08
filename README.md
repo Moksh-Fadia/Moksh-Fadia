@@ -6,13 +6,13 @@ My work focuses on exploring data, predictive models, and developing systems tha
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 - Data Analyst Intern at Jethabhai Doongarshi Transport Pvt. Ltd. (Mumbai, India)
 
 ---
 
-## Technical Interests
+## 🎓 Technical Interests
 - Data Analytics & Business Intelligence
 - Data Science & Predictive Modeling
 - Recommendation Systems
@@ -20,7 +20,7 @@ My work focuses on exploring data, predictive models, and developing systems tha
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 **Languages**  
 Python • SQL • C • Java • HTML • CSS • JavaScript 
@@ -33,7 +33,7 @@ Tableau • Power BI • Figma
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mokshfadia" target="_blank">
