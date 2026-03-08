@@ -34,11 +34,14 @@ Tableau • Power BI • Figma
 ---
 
 ## Let's Connect
-<p>
+
+<p align="center">
   <a href="https://linkedin.com/in/mokshfadia" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
-  
+</p>
+
+<p align="center">
   <a href="mailto:mokshfadia@gmail.com">
     <img src="https://img.icons8.com/color/96/gmail-new.png" width="60"/>
   </a>
