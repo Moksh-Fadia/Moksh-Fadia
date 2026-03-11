@@ -22,16 +22,16 @@ My work focuses on exploring data, developing predictive models, and building sy
 
 ## 💻 Tech Stack
 
-**Languages**  
-Python • SQL • C • Java • HTML • CSS • JavaScript 
+**Programming Languages:**  
+Python • SQL • C • Java • HTML • CSS • JavaScript  
 
-**Databases** 
-MySQL • PostSQL • SQLite
+**Databases:**  
+MySQL • PostgreSQL • SQLite  
 
-**Libraries & Frameworks**  
-Pandas • Scikit-learn • Matplotlib • Seaborn • NumPy • FastAPI • Flask 
+**Libraries & Frameworks:**  
+NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • FastAPI • Flask  
 
-**Visualization & Tools**  
+**Visualization & Tools:**  
 Tableau • Power BI • Figma
 
 ---
