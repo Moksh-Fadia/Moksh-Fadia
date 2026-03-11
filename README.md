@@ -29,7 +29,7 @@ Python • SQL • C • Java • HTML • CSS • JavaScript
 MySQL • PostgreSQL • SQLite  
 
 **Libraries & Frameworks:**  
-NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • FastAPI • Flask  
+Pandas • Scikit-learn • Matplotlib • Seaborn • NumPy • FastAPI • Flask  
 
 **Visualization & Tools:**  
 Tableau • Power BI • Figma
