@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering undergraduate interested in building practical projects across data analysis, data science, and software development, with a focus on solving real-world problems.
 
-My work focuses on exploring data, predictive models, and developing systems that extract meaningful insights and turn information into practical solutions.
+My work focuses on exploring data, developing predictive models, and building systems that turn data into actionable insights.
 
 ---
 
