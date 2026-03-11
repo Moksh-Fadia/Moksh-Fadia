@@ -25,6 +25,9 @@ My work focuses on exploring data, predictive models, and developing systems tha
 **Languages**  
 Python • SQL • C • Java • HTML • CSS • JavaScript 
 
+**Languages** 
+MySQL • PostSQL • SQLite
+
 **Libraries & Frameworks**  
 Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • FastAPI • Flask 
 
